@@ -1,0 +1,11 @@
+{
+  "name": "the importance of learning a new language_AI",
+  "url": "-",
+  "license": "AI created",
+  "audio": "IT_-_AI_-_the_importance_of_learning_a_new_language.mp4",
+  "native": "it",
+  "transcript": "it.txt",
+  "translations": 
+    { "fr": "fr.txt" ,
+      "it": "it.txt" }
+}

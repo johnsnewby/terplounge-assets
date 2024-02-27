@@ -1,0 +1,10 @@
+{
+  "name": "Interpreting vs Translating",
+  "url": "none",
+  "license": "IPG member",
+  "audio": "Interpreting vs Translating_EN",
+  "native": "en",
+  "transcript": "bur.txt",
+  "translations": [
+  ]
+}

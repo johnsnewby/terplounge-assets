@@ -1,0 +1,12 @@
+{
+  "name": " Salvaguardare il Playground Digitale: Garantire la Protezione Online dei Bambini",
+  "url": "",
+  "licence": "Creative Commons",
+  "audio": "EN - AI - Online child protection.mp4",
+  "native": "en",
+  "transcript": "en.txt",
+  "translations": [
+    { "it": "it.txt" }
+    { "fr": "fr.txt" }
+  ]
+}

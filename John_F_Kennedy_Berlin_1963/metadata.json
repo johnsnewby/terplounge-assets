@@ -1,0 +1,12 @@
+{
+  "name": "fooOne Day in Berlin_John F. Kennedy 1963",
+  "url": "https://commons.wikimedia.org/wiki/File:%22One_Day_in_Berlin%22_-_Visit_of_John_F._Kennedy,_president_of_the_United_States_in_Berlin,_1963.webm",
+  "license": "US Govt",
+  "audio": "One_Day_in_Berlin_John_F._Kennedy_1963.webm",
+  "native": "en",
+  "transcript": "en.txt",
+  "translations": 
+    { "de": "de.txt",
+      "fr": "fr.txt",
+      "es": "es.txt" }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "President Nixon's resignation speech",
+  "url": "https://www.pbs.org/newshour/spc/character/links/nixon_speech.html",
+  "license": "US Govt",
+  "audio": "Nixon_resignation_audio_with_buzz_removed.ogg",
+  "native": "en",
+  "transcript": "en.txt",
+  "translations": {
+    "de": "de.txt",
+    "fr": "fr.txt",
+       "es": "es.txt",
+     "it": "it.txt" }
+}

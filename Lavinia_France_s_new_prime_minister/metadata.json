@@ -1,0 +1,11 @@
+{
+  "name": "AI - Gabriel Attal, France's new Prime Minister",
+  "url": "-",
+  "license": "IPG member",
+  "audio": "EN - AI - Gabriel Attal, France's new Prime Minister",
+  "native": "en",
+  "transcript": "en.txt",
+  "translations":
+  { "it": "it.txt",
+    "fr": "fr.txt" }
+}

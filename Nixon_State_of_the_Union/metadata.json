@@ -1,0 +1,11 @@
+{
+  "name": "President Nixon's 1974 State of the Union",
+  "url": "https://commons.wikimedia.org/wiki/File:President_Nixon%27s_1974_State_of_the_Union.webm",
+  "license": "US Govt",
+  "audio": "President_Nixon_s_1974_State_of_the_Union_en_new.mp4",
+  "native": "en",
+  "transcript": "en.txt",
+  "translations": 
+    { "de": "de.txt",
+      "es": "es.txt" }
+}

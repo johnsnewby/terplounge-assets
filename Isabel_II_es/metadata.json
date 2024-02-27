@@ -1,0 +1,11 @@
+{
+  "name": "Isabel II",
+  "url": "https://speech-repository.webcloud.ec.europa.eu/speech/isabel-ii",
+  "license": "EU Speech Repository",
+  "audio": "Isabel_II_es.mp4",
+  "native": "es",
+  "transcript": "es.txt",
+  "translations": 
+    { "en": "en.txt" }
+
+}

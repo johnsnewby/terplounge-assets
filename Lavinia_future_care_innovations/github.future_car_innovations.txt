@@ -1,0 +1,12 @@
+{
+  "name": "AI - Future car innovations",
+  "url": "-",
+  "license": "IPG member",
+  "audio": "EN - AI - Future car innovations",
+  "native": "en",
+  "transcript": "en.txt",
+  "translations": [
+    { "it": "it.txt" }
+    { "fr": "fr.txt" }
+  ]
+}

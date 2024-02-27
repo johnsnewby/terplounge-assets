@@ -1,0 +1,14 @@
+{
+  "name": "President George W. Bush's Inaugural Address",
+  "url": "https://commons.wikimedia.org/wiki/File:George_W._Bush_first_inaugural_address,_January_20,_2001.ogg",
+  "license": "US Govt",
+  "audio": "George_W._Bush_first_inaugural_address,_January_20,_2001.ogg.mp3",
+  "native": "en",
+  "transcript": "en.txt",
+  "translations": 
+    { "de": "de.txt",
+      "es": "es.txt",
+     "fr": "fr.txt",
+     "it": "it.txt" }
+
+}

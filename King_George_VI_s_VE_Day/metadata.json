@@ -1,0 +1,12 @@
+{
+  "name": "King_George_VI's_VE_Day_speech",
+  "url": "https://commons.wikimedia.org/wiki/File:King_George_VI%27s_VE_Day_speech.ogg",
+  "license": "US Govt",
+  "audio": "King_George_VI_s_VE_Day_speech.ogg",
+  "native": "en",
+  "transcript": "en.txt",
+  "translations": 
+    { "de": "de.txt",
+      "it": "it.txt",
+    "es": "es.txt"}
+}

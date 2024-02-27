@@ -1,0 +1,12 @@
+{
+  "name": "What Future for Winter Sports",
+  "url": "none",
+  "license": "IPG member",
+  "audio": "French_Speech_-_Quel_avenir_pour_les_sports_d_hiver_-_14_min.mp4",
+  "native": "fr",
+  "transcript": "fr.txt",
+  "translations":
+    { "de": "de.txt",
+      "en": "en.txt",
+      "es": "es.txt" }
+}
